@@ -43,7 +43,7 @@ Fault tolerance is observed as follows
 
 Lastly we are ensuring every message will be delivered to the seller by persisting them in a database if they are not online they will get the notification.
 
-![Single-Responsibility-Notification-System](image/Single-Responsibility-Notification-System/1724594856370.png "Single-Responsibility-Notification-System")
+![Single-Responsibility-Notification-System](image/Single-Responsibility-Notification-System.png "Single-Responsibility-Notification-System")
 
 ## **Contribution**
 
