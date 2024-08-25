@@ -6,7 +6,7 @@ In this repository you can find many system designs which you can implement in y
 
 Following are the links to the system designs that are made by me and can be found below with the links to them.
 
-* Single Responsiblity Notification Service [(Link)]( "Single Responsibility Notification Service")
+* Single Responsiblity Notification Service [(Link)](https://github.com/TalhaRizwan093/SystemDesigns/blob/master/Single-Responsibility-Notification-System/Single-Responsibility-Notification-System.md "notification system single responsibiltiy")
 
 ## Contributions
 
